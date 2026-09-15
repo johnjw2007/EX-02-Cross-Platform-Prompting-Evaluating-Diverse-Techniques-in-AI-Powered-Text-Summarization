@@ -201,13 +201,15 @@ Scoring
 
 You can use a table like this after actually running the prompts:
 
-Prompt Type	Accuracy	Coherence	Simplicity	Relevance	Completeness	Total / 25
-Basic Prompt	4	4	4	4	3	19
-Role Prompt	5	4	5	4	4	22
-Context Prompt	5	5	5	5	4	24
-Constraint Prompt	5	5	5	5	5	25
-Output Format Prompt	5	5	5	5	5	25
-Final Combined Prompt	5	5	5	5	5	25
+| Prompt Type           | Accuracy | Coherence | Simplicity | Relevance | Completeness | Total / 25 |
+| --------------------- | -------: | --------: | ---------: | --------: | -----------: | ---------: |
+| Basic Prompt          |        4 |         4 |          4 |         4 |            3 |     **19** |
+| Role Prompt           |        5 |         4 |          5 |         4 |            4 |     **22** |
+| Context Prompt        |        5 |         5 |          5 |         5 |            4 |     **24** |
+| Constraint Prompt     |        5 |         5 |          5 |         5 |            5 |     **25** |
+| Output Format Prompt  |        5 |         5 |          5 |         5 |            5 |     **25** |
+| Final Combined Prompt |        5 |         5 |          5 |         5 |            5 |     **25** |
+
 
 ## RESULT
 
